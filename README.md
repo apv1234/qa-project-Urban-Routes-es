@@ -10,7 +10,7 @@ Se hizo uso de las librerias pytest (para ejecutar las pruebas) y selenium (como
 
 Comando de ejecucion:
 - Tener instalado Python. Al tiempo de creación del proyecto se utilizó la versión 3.13
-- Un entorno base funcional, de preferencia es mejor tener uno exclusivo para el proyecto con conda. Para más información revise la siguiente dirección: https://www.campusmvp.es/recursos/post/como-gestionar-diferentes-entornos-para-python-con-conda.aspx  
+- Un entorno base funcional
 - Instalar las dependencias, Utilizar el siguiente comando desde la raíz del proyecto: pip install -r requirements
 - Instalar pytest: pip install pytest
 - En el archivo configuration.py cambiar la variable URL_SERVICE por la URL del servidor actual y activo de Urban Routes
