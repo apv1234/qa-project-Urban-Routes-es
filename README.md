@@ -32,13 +32,13 @@ Entry and exit hooks (setup_class and teardown_class), as well as the test cases
 
 The test cases are ordered according to the sequence of actions required to order a taxi with the Comfort fare. The steps are as follows:
 
-1.Add route (from and to) – test_set_route
-2.Select the fare – test_select_comfort_tariff
-3.Enter phone number – test_ingresar_num_telef
-4.Enter verification code – test_ingresar_codigo_SMS
-5.Add card and CVV – test_agregar_tarjeta
-6.Add message to driver – test_mensaje_conductor
-7.Activate switch to request blanket and tissues – test_pedir_manta_panuelos
-8.Order ice creams – test_pedir_dos_helados
-9.Confirm order and reserve taxi – test_reservar_taxi
+- 1.Add route (from and to) – test_set_route
+- 2.Select the fare – test_select_comfort_tariff
+- 3.Enter phone number – test_ingresar_num_telef
+- 4.Enter verification code – test_ingresar_codigo_SMS
+- 5.Add card and CVV – test_agregar_tarjeta
+- 6.Add message to driver – test_mensaje_conductor
+- 7.Activate switch to request blanket and tissues – test_pedir_manta_panuelos
+- 8.Order ice creams – test_pedir_dos_helados
+- 9.Confirm order and reserve taxi – test_reservar_taxi
 
